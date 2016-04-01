@@ -6,3 +6,4 @@ add . /app
 workdir /app
 expose 80
 run npm install
+run npm test
